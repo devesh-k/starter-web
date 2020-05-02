@@ -1,6 +1,0 @@
-This is a new text file and I will use it for the purpose of testing.
-adding more text to the file and see how it goes.
-
-One more line to move too staging.
-
-Naother line to add to the file in the staging area.
