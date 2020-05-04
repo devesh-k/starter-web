@@ -11,6 +11,8 @@ Sample website with plenty of files for demos
 This is how you contribute.
 Still adding while in staging.
 
+PLease fork this Repo and then issue Pull Request for review.  
+
 ## Deployment
 DO NOT DEPLOY THIS FILE.
 ##Copyright
