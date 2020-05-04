@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 We are also looking into how to integrate your work into GitHub.
+Adding some new text here for rebasing .
 
 ## Purpose
 
