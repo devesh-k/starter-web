@@ -1,4 +1,4 @@
-# Starter Web Repo
+ # Starter Web Repo
 
 This repository is for showing how Git and GitHub work.
 We are also looking into how to integrate your work into GitHub.
@@ -24,4 +24,4 @@ This is an example to shoe the difference
 
 
 #### Copyright
-This is a sample copyright message .
+This is a sample copyright message .All rights reserved.
