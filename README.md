@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work.
 We are also looking into how to integrate your work into GitHub.
-Adding some new text here for rebasing example,then more changes from myfeature branch 
+Adding some new text here for rebasing example,then more changes from myfeature branch .
+THIS IS AN EMERGENCY FIX..
 
 ## Purpose
 
